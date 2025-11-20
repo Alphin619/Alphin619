@@ -10,6 +10,17 @@ Motivated cybersecurity professional with hands-on experience in SIEM monitoring
 
 My journey in Information Security Analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Splunk                                        | https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/tree/main Splunk DNS Analysis</a>|
+| Home Lab                                      | <a href="https://google.com">Home Lab</a>|
+| Wireshark                                     | upcoming project|
+| Snort                                         | upcoming project|
+| Vulnerability Managment with Nessus           | upcoming project|
+
 ##  Technical Skills
 
 **Security Operations:**  
@@ -27,7 +38,7 @@ Firewall management | Network segmentation | Phishing analysis | Secure remote a
 **Programming / Scripting:**  
 Linux | Bash | Python | SQL | JavaScript | Regex  
 
-## Projects & Labs
+## TryHackMe Labs and Challenge rooms
 
 ### **Splunk SIEM Deployment & Threat Detection**
 Configured Splunk, built SPL queries, created alerts, and detected anomalies including unauthorized accounts, PowerShell abuse, and suspicious logins.
