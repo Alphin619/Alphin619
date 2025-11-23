@@ -16,7 +16,7 @@ My journey in Information Security Analyst has led me to develop a passion for c
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk                                        | https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/tree/main Splunk DNS Analysis</a>|
-| Home Lab                                      | <a href="https://google.com">Home Lab</a>|
+| Home Lab                                      | Home Lab</a>|
 | Wireshark                                     | upcoming project|
 | Snort                                         | upcoming project|
 | Vulnerability Managment with Nessus           | upcoming project|
