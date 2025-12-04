@@ -12,13 +12,14 @@ My journey in Information Security Analyst has led me to develop a passion for c
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Splunk                                        | DNS Analysis- https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/tree/main </a> SSH Log Analysis-https://github.com/Alphin619/Splunk---SSH-Log-Analysis/blob/main/README.md|
-| Home Lab                                      | Home Lab</a>|
-| Wireshark                                     | upcoming project|
-| Snort                                         | upcoming project|
-| Vulnerability Managment with Nessus           | upcoming project|
+| Skill                               | Associated Project |
+|------------------------------------|------------------|
+| Splunk                              | [DNS Analysis](https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/blob/main/README.md), [SSH Log Analysis](https://github.com/Alphin619/Splunk---SSH-Log-Analysis/blob/main/README.md), [HTTP Log Analysis](https://github.com/Alphin619/Splunk---HTTP-Log-Analysis/blob/main/README.md) |
+| Home Lab                            | Home Lab |
+| Wireshark                           | Upcoming project |
+| Snort                               | Upcoming project |
+| Vulnerability Management with Nessus| Upcoming project |
+
 
 ##  Technical Skills
 
