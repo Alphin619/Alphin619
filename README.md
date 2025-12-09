@@ -16,7 +16,7 @@ My journey in Information Security Analyst has led me to develop a passion for c
 |------------------------------------|------------------|
 | Splunk                              | [DNS Analysis](https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/blob/main/README.md), [SSH Log Analysis](https://github.com/Alphin619/Splunk---SSH-Log-Analysis/blob/main/README.md), [HTTP Log Analysis](https://github.com/Alphin619/Splunk---HTTP-Log-Analysis/blob/main/README.md), [Zeek Log Analysis](https://github.com/Alphin619/Splunk---Zeek-Connection-Log-Analysis/blob/main/README.md), [Unauthorized Access](https://github.com/Alphin619/Splunk---Investigating-Unauthorized-Access/blob/main/README.md) |
 | Home Lab                            | Home Lab |
-| Wireshark                           | [ICMP Analysis](https://github.com/Alphin619/Wireshark---ICMP-Analysis/blob/main/README.md), [TCP Analysis](https://github.com/Alphin619/Wireshark---TCP-Protocol-Analysis/blob/main/README.md), |
+| Wireshark                           | [ICMP Analysis](https://github.com/Alphin619/Wireshark---ICMP-Analysis/blob/main/README.md), [TCP Analysis](https://github.com/Alphin619/Wireshark---TCP-Protocol-Analysis/blob/main/README.md), [HTTP Analysis](https://github.com/Alphin619/Wireshark---HTTP-analysis/blob/main/README.md) |
 | Snort                               | Upcoming project |
 | Vulnerability Management with Nessus| Upcoming project |
 
