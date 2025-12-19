@@ -18,7 +18,7 @@ My journey in Information Security Analyst has led me to develop a passion for c
 | Home Lab                            | Home Lab |
 | Wireshark                           | [ICMP Analysis](https://github.com/Alphin619/Wireshark---ICMP-Analysis/blob/main/README.md), [TCP Analysis](https://github.com/Alphin619/Wireshark---TCP-Protocol-Analysis/blob/main/README.md), [HTTP Analysis](https://github.com/Alphin619/Wireshark---HTTP-analysis/blob/main/README.md), [TLS Analysis](https://github.com/Alphin619/Wireshark---TLS-analysis/blob/main/README.md), [Detecting & Investigating Malware Traffic](https://github.com/Alphin619/Wireshark---Detecting-and-Investigating-Malware-Traffic/blob/main/README.md), [TCP-Zero Window](https://github.com/Alphin619/Wireshark---TCP-Zero-Window/blob/main/README.md), [Keylogger Analysis](https://github.com/Alphin619/Wireshark---Keylogger-Analysis/blob/main/README.md) |
 | Snort                               | Upcoming project |
-| Vulnerability Management with Nessus| Upcoming project |
+| Nessus| [Self Vulnerability Scan](https://github.com/Alphin619/Nessus---Vulnerability-Scanning/blob/main/README.md) |
 
 
 ##  Technical Skills
