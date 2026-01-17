@@ -60,6 +60,9 @@ Built a segmented network environment for testing attacks and defensive controls
 
 ##  Training & Certifications
 
+<a href="https://tryhackme.com/certificate/THM-GWLVNSLDYP" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Cyber_Security_101-green?style=for-the-badge" alt="Cyber Security 101 Badge" />
+</a>
 <a href="https://www.credential.net/b04852d6-a86c-4b4d-9221-1fbcd80cb48d#acc.92Xx03yn">
   <img src="https://img.shields.io/badge/Information_Security_Analyst_(Honors)-blue?style=for-the-badge" />
 </a>
