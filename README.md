@@ -4,22 +4,22 @@
 
 ###  Aspiring SOC Analyst | Cybersecurity Enthusiast | Blue Team Focus
 
-Motivated cybersecurity professional with hands-on experience in SIEM monitoring, threat detection, log analysis, and incident response. I focus on solving security problems and understanding how attacks unfold from both defensive and offensive perspectives.
+Crtified cybersecurity professional with hands-on experience in SIEM monitoring, threat detection, log analysis, and incident response. I focus on solving security problems and understanding how attacks unfold from both defensive and offensive perspectives.
 
 ## Objective
 
-My journey in Information Security Analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
+My journey in Information Security Analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst and to progress from there.
 
-## Skills
+## Tools
 
-| Skill                               | Associated Project |
+| Tools                               | Associated Project |
 |------------------------------------|------------------|
-| Splunk                              | [DNS Analysis](https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/blob/main/README.md), [SSH Log Analysis](https://github.com/Alphin619/Splunk---SSH-Log-Analysis/blob/main/README.md), [HTTP Log Analysis](https://github.com/Alphin619/Splunk---HTTP-Log-Analysis/blob/main/README.md), [Zeek Log Analysis](https://github.com/Alphin619/Splunk---Zeek-Connection-Log-Analysis/blob/main/README.md), [Unauthorized Access](https://github.com/Alphin619/Splunk---Investigating-Unauthorized-Access/blob/main/README.md) |
+| [Splunk](https://github.com/search?q=user%3AAlphin619+Splunk&type=repositories)                              | [DNS Analysis](https://github.com/Alphin619/Splunk---Analyzing-DNS-Log-Files/blob/main/README.md), [SSH Log Analysis](https://github.com/Alphin619/Splunk---SSH-Log-Analysis/blob/main/README.md), [HTTP Log Analysis](https://github.com/Alphin619/Splunk---HTTP-Log-Analysis/blob/main/README.md), [Zeek Log Analysis](https://github.com/Alphin619/Splunk---Zeek-Connection-Log-Analysis/blob/main/README.md), [Unauthorized Access](https://github.com/Alphin619/Splunk---Investigating-Unauthorized-Access/blob/main/README.md) |
 | Home Lab                            | Home Lab |
-| Wireshark                           | [ICMP Analysis](https://github.com/Alphin619/Wireshark---ICMP-Analysis/blob/main/README.md), [TCP Analysis](https://github.com/Alphin619/Wireshark---TCP-Protocol-Analysis/blob/main/README.md), [HTTP Analysis](https://github.com/Alphin619/Wireshark---HTTP-analysis/blob/main/README.md), [TLS Analysis](https://github.com/Alphin619/Wireshark---TLS-analysis/blob/main/README.md), [Detecting & Investigating Malware Traffic](https://github.com/Alphin619/Wireshark---Detecting-and-Investigating-Malware-Traffic/blob/main/README.md), [TCP-Zero Window](https://github.com/Alphin619/Wireshark---TCP-Zero-Window/blob/main/README.md), [Keylogger Analysis](https://github.com/Alphin619/Wireshark---Keylogger-Analysis/blob/main/README.md) |
-| Snort                               | [Setup & Test run](https://github.com/Alphin619/Snort---Setting-up-Snort-and-Test-run/blob/main/README.md) |
-| Nessus| [Self Vulnerability Scan](https://github.com/Alphin619/Nessus---Vulnerability-Scanning/blob/main/README.md), [Basic Network Scan](https://github.com/Alphin619/Nesus---Metasploitable-2-basic-scan/blob/main/README.md), [Advanced Scan](https://github.com/Alphin619/Nessus---Advanced-Scan/blob/main/README.md), [Web Application Test](https://github.com/Alphin619/Nessus---Web-Application-Test/blob/main/README.md) |
-
+| [Wireshark](https://github.com/search?q=user%3AAlphin619+Wireshark&type=repositories)                         | [ICMP Analysis](https://github.com/Alphin619/Wireshark---ICMP-Analysis/blob/main/README.md), [TCP Analysis](https://github.com/Alphin619/Wireshark---TCP-Protocol-Analysis/blob/main/README.md), [HTTP Analysis](https://github.com/Alphin619/Wireshark---HTTP-analysis/blob/main/README.md), [TLS Analysis](https://github.com/Alphin619/Wireshark---TLS-analysis/blob/main/README.md), [Detecting & Investigating Malware Traffic](https://github.com/Alphin619/Wireshark---Detecting-and-Investigating-Malware-Traffic/blob/main/README.md), [TCP-Zero Window](https://github.com/Alphin619/Wireshark---TCP-Zero-Window/blob/main/README.md), [Keylogger Analysis](https://github.com/Alphin619/Wireshark---Keylogger-Analysis/blob/main/README.md) |
+| [Snort](https://github.com/search?q=user%3AAlphin619+Snort&type=repositories)                               | [Setup & Test run](https://github.com/Alphin619/Snort---Setting-up-Snort-and-Test-run/blob/main/README.md) |
+| [Nessus](https://github.com/search?q=user%3AAlphin619+Nessus&type=repositories)| [Self Vulnerability Scan](https://github.com/Alphin619/Nessus---Vulnerability-Scanning/blob/main/README.md), [Basic Network Scan](https://github.com/Alphin619/Nesus---Metasploitable-2-basic-scan/blob/main/README.md), [Advanced Scan](https://github.com/Alphin619/Nessus---Advanced-Scan/blob/main/README.md), [Web Application Test](https://github.com/Alphin619/Nessus---Web-Application-Test/blob/main/README.md) |
+| T-Pot honeypot |upcoming|
 
 ##  Technical Skills
 
