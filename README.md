@@ -27,7 +27,7 @@ My journey in Information Security Analyst has led me to develop a passion for c
 SIEM Monitoring | Log Analysis | Incident Response | Threat Detection | SOC Triage  
 
 **Tools & Platforms:**  
-Splunk | ELK/Kibana | Wireshark | Nessus | Nmap | Snort | Volatility | Metasploit | pfSense  
+Splunk | ELK/Kibana | Wireshark | Nessus | Nmap | T-Pot | Snort | Volatility | Metasploit | pfSense  
 
 **Frameworks & Standards:**  
 MITRE ATT&CK | NIST | CIS Controls | ISO 27001 | Zero Trust  
