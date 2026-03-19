@@ -20,7 +20,7 @@ My journey in Information Security Analyst has led me to develop a passion for c
 | [Nessus](https://github.com/search?q=user%3AAlphin619+Nessus&type=repositories)| [Self Vulnerability Scan](https://github.com/Alphin619/Nessus---Vulnerability-Scanning/blob/main/README.md), [Basic Network Scan](https://github.com/Alphin619/Nesus---Metasploitable-2-basic-scan/blob/main/README.md), [Advanced Scan](https://github.com/Alphin619/Nessus---Advanced-Scan/blob/main/README.md), [Web Application Test](https://github.com/Alphin619/Nessus---Web-Application-Test/blob/main/README.md) |
 | T-Pot honeypot |[T-Pot deployment](https://github.com/Alphin619/T-Pot-Honeypot/blob/main/README.md)|
 | SIEM-Home Lab | [Home-Lab Setup and Log Aggregation ](https://github.com/Alphin619/SIEM-Home-Lab/blob/main/README.md)
-
+| Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
 ##  Technical Skills
 
 **Security Operations:**  
