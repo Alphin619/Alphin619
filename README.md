@@ -1,16 +1,31 @@
 # 👋 Hi, I'm Alphin
 
-<a href="https://linkedin.com/in/alphinshibu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/alphinshibu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-FF0000?style=for-the-badge&logo=tryhackme&logoColor=FF0000&color=white)](https://tryhackme.com/p/Alphin99)
 
-###  Aspiring SOC Analyst | Cybersecurity Enthusiast | Blue Team Focus
+###  SOC Analyst | Blue Team | CompTIA Security+
 
-Crtified cybersecurity professional with hands-on experience in SIEM monitoring, threat detection, log analysis, and incident response. I focus on solving security problems and understanding how attacks unfold from both defensive and offensive perspectives.
+## <ins>Objective</ins>
 
-## Objective
+CompTIA Security+ certified analyst actively seeking a Tier 1/2 SOC role. I bring hands-on experience across SIEM deployment, malware traffic analysis, IDS rule writing, and phishing triage which is all demonstrated through real project work below. I'm focused on contributing to a SOC team from day one while continuing to develop toward threat hunting and incident response specialisation.
 
-My journey in Information Security Analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst and to progress from there.
+##  <ins>Training & Certifications</ins>
 
-## Tools
+<a href="https://tryhackme.com/certificate/THM-GWLVNSLDYP" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Cyber_Security_101-green?style=for-the-badge" alt="Cyber Security 101 Badge" />
+</a>
+<a href="https://www.credential.net/b04852d6-a86c-4b4d-9221-1fbcd80cb48d#acc.92Xx03yn">
+  <img src="https://img.shields.io/badge/Information_Security_Analyst_(Honours)-blue?style=for-the-badge" />
+</a>
+  
+<a href="https://www.credly.com/badges/c3d50118-4981-46af-9975-c19ffd3a1cf8">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LY9I0E3DJ8.pdf">
+  <img src="https://img.shields.io/badge/Pre--Security-red?style=for-the-badge" />
+</a>  
+
+## <ins>Tools</ins>
 
 | Tools                               | Associated Project |
 |------------------------------------|------------------|
@@ -21,7 +36,8 @@ My journey in Information Security Analyst has led me to develop a passion for c
 | T-Pot honeypot |[T-Pot deployment](https://github.com/Alphin619/T-Pot-Honeypot/blob/main/README.md)|
 | SIEM-Home Lab | [Home-Lab Setup and Log Aggregation ](https://github.com/Alphin619/SIEM-Home-Lab/blob/main/README.md)
 | Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
-##  Technical Skills
+
+##  <ins>Technical Skills</ins>
 
 **Security Operations:**  
 SIEM Monitoring | Log Analysis | Incident Response | Threat Detection | SOC Triage  
@@ -38,50 +54,13 @@ Firewall management | Network segmentation | Phishing analysis | Secure remote a
 **Programming / Scripting:**  
 Linux | Bash | Python | SQL | JavaScript | Regex  
 
-## TryHackMe Labs and Challenge rooms
-
-### **Splunk SIEM Deployment & Threat Detection**
-Configured Splunk, built SPL queries, created alerts, and detected anomalies including unauthorized accounts, PowerShell abuse, and suspicious logins.
-
-### **ELK Stack Log Investigation**
-Investigated VPN logs, identified malicious IPs, reconstructed payload paths, and documented IOCs.
-
-### **Wireshark Traffic & Intrusion Analysis**
-Analyzed PCAP files for exfiltration indicators, command injection, and suspicious DNS/TCP streams.
-
-### **Snort Intrusion Detection**
-Created custom Snort rules and detected brute-force attempts and reverse shells in live simulations.
-
-### **Memory Forensics (Volatility 3)**
-Investigated memory images to identify processes, extract hashes, and detect credential theft.
-
-### **pfSense Home Lab**
-Built a segmented network environment for testing attacks and defensive controls.
-
-##  Training & Certifications
-
-<a href="https://tryhackme.com/certificate/THM-GWLVNSLDYP" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Cyber_Security_101-green?style=for-the-badge" alt="Cyber Security 101 Badge" />
-</a>
-<a href="https://www.credential.net/b04852d6-a86c-4b4d-9221-1fbcd80cb48d#acc.92Xx03yn">
-  <img src="https://img.shields.io/badge/Information_Security_Analyst_(Honors)-blue?style=for-the-badge" />
-</a>
-  
-<a href="https://www.credly.com/badges/c3d50118-4981-46af-9975-c19ffd3a1cf8">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LY9I0E3DJ8.pdf">
-  <img src="https://img.shields.io/badge/Pre--Security-red?style=for-the-badge" />
-</a>  
 
 ##  Currently Learning
-- SIEM content development  
-- Threat hunting methodologies  
-- Vulnerability scanning  
-- Python automation for detection & analysis  
+- Microsoft Azure Fundamentals (AZ-900) - cloud infrastructure & security services
+- Azure Sentinel (Microsoft SIEM) - cloud-native SOC monitoring
+- Cloud security concepts - IAM, logging, threat detection in Azure environments
+- Python automation - extending phishing analyser with SOAR-style playbooks
 
 ---
 
 >  *Always learning, always improving and always curious about how attackers think.*  
-
