@@ -10,17 +10,17 @@ CompTIA Security+ certified analyst actively seeking a Tier 1/2 SOC role. I brin
 
 ##  <ins>Training & Certifications</ins>
 
+<a href="https://www.credly.com/badges/c3d50118-4981-46af-9975-c19ffd3a1cf8">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/Alphin-7777/93F4936607C268F4?sharingId=9C8B7E3AFAA78FAC" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AZ-900 Badge" /> 
+</a>
 <a href="https://tryhackme.com/certificate/THM-GWLVNSLDYP" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Cyber_Security_101-green?style=for-the-badge" alt="Cyber Security 101 Badge" />
 </a>
 <a href="https://www.credential.net/b04852d6-a86c-4b4d-9221-1fbcd80cb48d#acc.92Xx03yn">
   <img src="https://img.shields.io/badge/Information_Security_Analyst_(Honours)-blue?style=for-the-badge" />
 </a>
-  
-<a href="https://www.credly.com/badges/c3d50118-4981-46af-9975-c19ffd3a1cf8">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LY9I0E3DJ8.pdf">
   <img src="https://img.shields.io/badge/Pre--Security-red?style=for-the-badge" />
 </a>  
@@ -36,17 +36,17 @@ CompTIA Security+ certified analyst actively seeking a Tier 1/2 SOC role. I brin
 | T-Pot honeypot |[T-Pot deployment](https://github.com/Alphin619/T-Pot-Honeypot/blob/main/README.md)|
 | SIEM-Home Lab | [Home-Lab Setup and Log Aggregation ](https://github.com/Alphin619/SIEM-Home-Lab/blob/main/README.md)
 | Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
+| Azure Entra ID | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md) |
 
 ##  <ins>Technical Skills</ins>
 
 **Security Operations:**  
-SIEM Monitoring | Log Analysis | Incident Response | Threat Detection | SOC Triage  
+SIEM Monitoring | Log Analysis | Incident Response | Threat Detection | SOC Triage | alert investigation | honeypot deployment & analysis | IOC analysis | email forensics | cloud identity security | identity threat modelling | blast radius analysis | RBAC design and access control review  
 
 **Tools & Platforms:**  
-Splunk | ELK/Kibana | Wireshark | Nessus | Nmap | T-Pot | Snort | Volatility | Metasploit | pfSense  
-
+Splunk | Microsoft Sentinel (learning) | Azure Portal | Microsoft Entra ID | KQL | ELK Stack | Wireshark | Snort | Nessus | T-Pot | Suricata | pfSense | Nmap | VirtualBox | Volatility 3 | VirusTotal | OSINT 
 **Frameworks & Standards:**  
-MITRE ATT&CK | NIST | CIS Controls | ISO 27001 | Zero Trust  
+MITRE ATT&CK | NIST | CIS Controls | ISO 27001 | Zero Trust | GDPR | SOC Workflow | Least Privilege | Defence in Depth  
 
 **Tech Knowledge:**  
 Firewall management | Network segmentation | Phishing analysis | Secure remote access  
@@ -56,7 +56,6 @@ Linux | Bash | Python | SQL | JavaScript | Regex
 
 
 ##  Currently Learning
-- Microsoft Azure Fundamentals (AZ-900) - cloud infrastructure & security services
 - Azure Sentinel (Microsoft SIEM) - cloud-native SOC monitoring
 - Cloud security concepts - IAM, logging, threat detection in Azure environments
 - Python automation - extending phishing analyser with SOAR-style playbooks
