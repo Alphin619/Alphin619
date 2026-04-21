@@ -2,11 +2,15 @@
 
 <a href="https://linkedin.com/in/alphinshibu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-FF0000?style=for-the-badge&logo=tryhackme&logoColor=FF0000&color=white)](https://tryhackme.com/p/Alphin99)
 
-###  SOC Analyst | Blue Team | CompTIA Security+
+###  SOC Analyst | Blue Team | CompTIA Security+ | AZ-900
 
 ## <ins>Objective</ins>
 
-CompTIA Security+ certified analyst actively seeking a Tier 1/2 SOC role. I bring hands-on experience across SIEM deployment, malware traffic analysis, IDS rule writing, and phishing triage which is all demonstrated through real project work below. I'm focused on contributing to a SOC team from day one while continuing to develop toward threat hunting and incident response specialisation.
+CompTIA Security+ and AZ-900 certified analyst actively seeking a Tier 1/2 SOC role. 
+I bring hands-on experience across SIEM deployment, KQL detection engineering, Microsoft 
+Sentinel, malware traffic analysis, IDS rule writing, and phishing triage. All demonstrated 
+through real project work below. I'm focused on contributing to a SOC team from day one 
+while continuing to develop toward threat hunting and incident response specialisation.
 
 ##  <ins>Training & Certifications</ins>
 
@@ -36,7 +40,7 @@ CompTIA Security+ certified analyst actively seeking a Tier 1/2 SOC role. I brin
 | T-Pot honeypot |[T-Pot deployment](https://github.com/Alphin619/T-Pot-Honeypot/blob/main/README.md)|
 | SIEM-Home Lab | [Home-Lab Setup and Log Aggregation ](https://github.com/Alphin619/SIEM-Home-Lab/blob/main/README.md)
 | Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
-| Azure Entra ID | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md) |
+| Azure Entra ID | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md), [Sentinel Detection Engineering](https://github.com/Alphin619/Azure-Sentinel-Detection-Lab/blob/main/README.md) |
 
 ##  <ins>Technical Skills</ins>
 
@@ -44,7 +48,7 @@ CompTIA Security+ certified analyst actively seeking a Tier 1/2 SOC role. I brin
 SIEM Monitoring | Log Analysis | Incident Response | Threat Detection | SOC Triage | alert investigation | honeypot deployment & analysis | IOC analysis | email forensics | cloud identity security | identity threat modelling | blast radius analysis | RBAC design and access control review  
 
 **Tools & Platforms:**  
-Splunk | Microsoft Sentinel (learning) | Azure Portal | Microsoft Entra ID | KQL | ELK Stack | Wireshark | Snort | Nessus | T-Pot | Suricata | pfSense | Nmap | VirtualBox | Volatility 3 | VirusTotal | OSINT 
+Splunk | Microsoft Sentinel | Azure Portal | Microsoft Entra ID | KQL | ELK Stack | Wireshark | Snort | Nessus | T-Pot | Suricata | pfSense | Nmap | VirtualBox | Volatility 3 | VirusTotal | OSINT 
 **Frameworks & Standards:**  
 MITRE ATT&CK | NIST | CIS Controls | ISO 27001 | Zero Trust | GDPR | SOC Workflow | Least Privilege | Defence in Depth  
 
@@ -56,9 +60,9 @@ Linux | Bash | Python | SQL | JavaScript | Regex
 
 
 ##  Currently Learning
-- Azure Sentinel (Microsoft SIEM) - cloud-native SOC monitoring
-- Cloud security concepts - IAM, logging, threat detection in Azure environments
-- Python automation - extending phishing analyser with SOAR-style playbooks
+- SC-200 (Microsoft Security Operations Analyst) - (in progress)
+- Expanding KQL detection library
+- Python SOAR-style playbook automation
 
 ---
 
