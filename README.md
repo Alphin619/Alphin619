@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Alphin
 
-<a href="https://linkedin.com/in/alphinshibu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-FF0000?style=for-the-badge&logo=tryhackme&logoColor=FF0000&color=white)](https://tryhackme.com/p/Alphin99)
-
 ###  SOC Analyst | Blue Team | CompTIA Security+ | AZ-900
 
 ## <ins>Objective</ins>
@@ -42,21 +40,41 @@ while continuing to develop toward threat hunting and incident response speciali
 | Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
 | Azure Entra ID | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md), [Sentinel Detection Engineering](https://github.com/Alphin619/Azure-Sentinel-Detection-Lab/blob/main/README.md) |
 
-##  <ins>Technical Skills</ins>
+## <ins>Technical Skills</ins>
 
-**Security Operations:**  
-SIEM Monitoring | Log Analysis | Incident Response | Threat Detection | SOC Triage | alert investigation | honeypot deployment & analysis | IOC analysis | email forensics | cloud identity security | identity threat modelling | blast radius analysis | RBAC design and access control review  
+**🔵 SIEM & Detection**
 
-**Tools & Platforms:**  
-Splunk | Microsoft Sentinel | Azure Portal | Microsoft Entra ID | KQL | ELK Stack | Wireshark | Snort | Nessus | T-Pot | Suricata | pfSense | Nmap | VirtualBox | Volatility 3 | VirusTotal | OSINT 
-**Frameworks & Standards:**  
-MITRE ATT&CK | NIST | CIS Controls | ISO 27001 | Zero Trust | GDPR | SOC Workflow | Least Privilege | Defence in Depth  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/-KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-**Tech Knowledge:**  
-Firewall management | Network segmentation | Phishing analysis | Secure remote access  
+**🔴 Network & Threat Analysis**
 
-**Programming / Scripting:**  
-Linux | Bash | Python | SQL | JavaScript | Regex  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-CC0000?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-00B4E6?style=for-the-badge&logoColor=white)
+
+**🟣 Cloud & Identity**
+
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logoColor=white)
+
+**🟡 Scripting & Automation**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**🟢 Frameworks**
+
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+![NIST](https://img.shields.io/badge/-NIST-00205B?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/-ISO%2027001-4CAF50?style=for-the-badge&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-6A0DAD?style=for-the-badge&logoColor=white)
 
 
 ##  Currently Learning
