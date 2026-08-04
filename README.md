@@ -4,11 +4,11 @@
 
 ## <ins>Objective</ins>
 
-CompTIA Security+ and AZ-900 certified analyst actively seeking a Tier 1/2 SOC role. 
-I bring hands-on experience across SIEM deployment, KQL detection engineering, Microsoft 
-Sentinel, malware traffic analysis, IDS rule writing, and phishing triage. All demonstrated 
-through real project work below. I'm focused on contributing to a SOC team from day one 
-while continuing to develop toward threat hunting and incident response specialisation.
+CompTIA Security+ and Microsoft Azure (AZ-900) certified cybersecurity professional working as an IT Field Engineer while building hands-on experience in enterprise Windows environments. Alongside real-world IT support, I have developed practical skills in Microsoft Sentinel, SIEM deployment, KQL detection engineering, phishing analysis, and threat detection through security projects. My goal is to transition into a Tier 1/2 SOC role where I can combine enterprise IT experience with Blue Team operations.
+
+### Enterprise IT Experience
+
+Currently working as an IT Field Engineer delivering on-site technical support across client environments through Cerco's ITOL-accredited programme. My day-to-day work includes Windows administration, Active Directory, endpoint deployment, networking, and troubleshooting enterprise IT infrastructure. This hands-on experience complements my security projects by providing practical exposure to the Windows and Microsoft environments that SOC analysts protect every day.
 
 ##  <ins>Training & Certifications</ins>
 
@@ -17,11 +17,14 @@ while continuing to develop toward threat hunting and incident response speciali
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/Alphin-7777/93F4936607C268F4?sharingId=9C8B7E3AFAA78FAC" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AZ-900 Badge" /> 
 </a>
-<a href="https://tryhackme.com/certificate/THM-GWLVNSLDYP" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Cyber_Security_101-green?style=for-the-badge" alt="Cyber Security 101 Badge" />
+<a href="https://credential.itol.org/14c21b62-762d-4f18-a39f-88f0902d6946#acc.5KpftDrh">
+  <img src="https://img.shields.io/badge/ITOL_IT_Field_Engineering-0057B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="ITOL IT Field Engineering Badge" />
 </a>
 <a href="https://www.credential.net/b04852d6-a86c-4b4d-9221-1fbcd80cb48d#acc.92Xx03yn">
   <img src="https://img.shields.io/badge/Information_Security_Analyst_(Honours)-blue?style=for-the-badge" />
+</a>
+<a href="https://tryhackme.com/certificate/THM-GWLVNSLDYP" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Cyber_Security_101-green?style=for-the-badge" alt="Cyber Security 101 Badge" />
 </a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LY9I0E3DJ8.pdf">
   <img src="https://img.shields.io/badge/Pre--Security-red?style=for-the-badge" />
@@ -76,6 +79,19 @@ while continuing to develop toward threat hunting and incident response speciali
 ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-4CAF50?style=for-the-badge&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-6A0DAD?style=for-the-badge&logoColor=white)
 
+## <ins>Enterprise Technologies</ins>
+
+- Windows 10/11 & Windows Server 2022
+- Active Directory (Domain Joins, User & Group Permissions)
+- Microsoft Azure & Entra ID
+- Microsoft Sentinel
+- Splunk Enterprise
+- Networking (TCP/IP, DNS, DHCP, Static IP)
+- NTFS Permissions
+- Disk Management
+- pfSense & Suricata IDS
+- Clonezilla Imaging
+- PowerShell Fundamentals
 
 ##  Currently Learning
 - SC-200 (Microsoft Security Operations Analyst) - (in progress)
