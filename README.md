@@ -2,9 +2,9 @@
 
 ###  SOC Analyst | Blue Team | CompTIA Security+ | AZ-900
 
-## <ins>Objective</ins>
+## <ins>About Me</ins>
 
-CompTIA Security+ and Microsoft Azure (AZ-900) certified cybersecurity professional working as an IT Field Engineer while building hands-on experience in enterprise Windows environments. Alongside real-world IT support, I have developed practical skills in Microsoft Sentinel, SIEM deployment, KQL detection engineering, phishing analysis, and threat detection through security projects. My goal is to transition into a Tier 1/2 SOC role where I can combine enterprise IT experience with Blue Team operations.
+CompTIA Security+ and Microsoft AZ-900 certified IT Field Engineer working towards a Junior/Tier 1 SOC analyst role. I deliver on-site support across client environments through Cerco's ITOL-accredited programme, covering Windows administration, Active Directory, endpoint deployment and networking. Alongside this, I build and document security labs, including KQL detection engineering in Microsoft Sentinel, SIEM log aggregation, phishing analysis and a Pi-hole DNS security lab using threat-intelligence feeds. I'm currently studying for SC-200.
 
 ### Enterprise IT Experience
 
@@ -42,6 +42,7 @@ Currently working as an IT Field Engineer delivering on-site technical support a
 | SIEM-Home Lab | [Home-Lab Setup and Log Aggregation ](https://github.com/Alphin619/SIEM-Home-Lab/blob/main/README.md)
 | Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
 | Azure Entra ID | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md), [Sentinel Detection Engineering](https://github.com/Alphin619/Azure-Sentinel-Detection-Lab/blob/main/README.md) |
+| Pi-hole | [DNS Security Lab: Pi-hole on a Raspberry Pi 4](https://github.com/Alphin619/DNS-Security-Lab---Pi-Hole/blob/main/README.md) |
 
 ## <ins>Technical Skills</ins>
 
@@ -55,21 +56,23 @@ Currently working as an IT Field Engineer delivering on-site technical support a
 **🔴 Network & Threat Analysis**
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logoColor=white)
 ![Snort](https://img.shields.io/badge/-Snort-CC0000?style=for-the-badge&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logoColor=white)
 ![Nessus](https://img.shields.io/badge/-Nessus-00B4E6?style=for-the-badge&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
 
 **🟣 Cloud & Identity**
 
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![pfSense](https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logoColor=white)
 
 **🟡 Scripting & Automation**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **🟢 Frameworks**
@@ -94,7 +97,7 @@ Currently working as an IT Field Engineer delivering on-site technical support a
 - PowerShell Fundamentals
 
 ##  Currently Learning
-- SC-200 (Microsoft Security Operations Analyst) - (in progress)
+- SC-200 (Microsoft Security Operations Analyst), in progress
 - Expanding KQL detection library
 - Python SOAR-style playbook automation
 
