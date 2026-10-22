@@ -41,7 +41,7 @@ Currently working as an IT Field Engineer delivering on-site technical support a
 | T-Pot honeypot |[T-Pot deployment](https://github.com/Alphin619/T-Pot-Honeypot/blob/main/README.md)|
 | SIEM-Home Lab | [Home-Lab Setup and Log Aggregation ](https://github.com/Alphin619/SIEM-Home-Lab/blob/main/README.md)
 | Phishing Simulator | [Auto Phishing Analyser](https://github.com/Alphin619/Auto-Phishing-Analyser/blob/main/README.md) |
-| Azure Entra ID | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md), [Sentinel Detection Engineering](https://github.com/Alphin619/Azure-Sentinel-Detection-Lab/blob/main/README.md) |
+| [Azure](https://github.com/search?q=user%3AAlphin619+Azure&type=repositories) | [Identity Threat Modelling & Access Control Lab](https://github.com/Alphin619/Azure-Entra-Identity-Lab/blob/main/README.md), [Sentinel Detection Engineering](https://github.com/Alphin619/Azure-Sentinel-Detection-Lab/blob/main/README.md) |
 | Pi-hole | [DNS Security Lab: Pi-hole on a Raspberry Pi 4](https://github.com/Alphin619/DNS-Security-Lab---Pi-Hole/blob/main/README.md) |
 
 ## <ins>Technical Skills</ins>
